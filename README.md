@@ -1,3 +1,3 @@
 # TSE-Pathfinder
 
-Source code of navmesh generator and pathfinder I have made for *The Shooter Engine*, which has been discontinued.
+Source code of navmesh generator and pathfinder I have made for a game engine student project
